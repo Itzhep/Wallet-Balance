@@ -4,7 +4,7 @@ import requests
 api_url = 'https://apilist.tronscanapi.com/api/accountv2'
 
 # آدرس کیف پول TRX مورد نظر
-wallet_address = 'TRANMu9M7fKXKpiGeokQc811tbzTTSGHsQ'
+wallet_address = 'ادرس کیف پول شما'
 
 # ایجاد پارامترهای درخواست
 params = {'address': wallet_address}
