@@ -14,14 +14,16 @@ Make sure you have Python installed. Install the required `requests` module:
 pip install requests
 ```
 ## Installation
-
+```bash
 git clone https://github.com/Itzhep/Wallet-Balance/
-
+```
 # Your TRON wallet address
+```bash
 wallet_address = 'your_wallet_address'
-
+```
 
 
 # Usage
-
+```bash
 python3 main.py
+```
