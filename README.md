@@ -1,6 +1,6 @@
 # TRON Wallet Balance Checker
 
-![TRON Logo](tron_logo.png)
+![TRON Logo](tron-trx-logo.png)
 
 This script allows you to check the balance of a TRON (TRX) wallet using the TRONScan API.
 
